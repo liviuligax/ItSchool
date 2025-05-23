@@ -1,12 +1,8 @@
-# ItSchool
+# Teme – Proiect It School
 
-# Teme de curs
+Acest repository conține temele realizate în cadrul cursului.
 
-Acest repository conține toate temele realizate până acum.
+## Teme incluse
 
-## Lista temelor
-
-- Tema 1: Bazele Python
-- Tema 2: Proiect Jupyter Notebook
-- Tema 3: HTML + CSS landing page
-...
+- **Tema 1**: script Python simplu – [Tema_01/Tema_01.py](Tema_01/Tema_01.py)
+- **Tema 2**: aplicație/test – [Tema_02/Tema2.py](Tema_02/Tema2.py)
