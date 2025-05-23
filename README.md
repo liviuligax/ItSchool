@@ -1,8 +1,12 @@
-# Teme – Proiect It School
+# Teme IT School
 
-Acest repository conține temele realizate în cadrul cursului.
+Acest repository conține temele realizate în cadrul cursului IT School.
 
-## Teme incluse
+## Teme finalizate
 
-- **Tema 1**: script Python simplu – [Tema_01/Tema_01.py](Tema_01/Tema_01.py)
-- **Tema 2**: aplicație/test – [Tema_02/Tema2.py](Tema_02/Tema2.py)
+- **Tema 1** – Variabile, input, output – [Tema_01](Tema_01/Tema_01.py)
+- **Tema 2** – Condiții și bucle – [Tema_02](Tema_02/Tema_02.py)
+
+## Organizare
+
+Fiecare temă este stocată într-un folder separat, împreună cu fișierul sursă.
